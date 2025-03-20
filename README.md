@@ -17,3 +17,5 @@ If you are developing a production application, we recommend using TypeScript an
 4) cd server
 5) npm i
 7) node server.js
+
+Watch the working https://drive.google.com/drive/folders/1xVNkl9AvnIxqbP3q9kMEpb4G3qmtq49i?usp=sharing
